@@ -9,6 +9,6 @@ I enroll for this course simply because I want to learn some tools. I feel like 
 * Policies
 * Communication study
 
-A photo from the South Park episodes hereby prove my capability to add image.
+A photo from the South Park episodes hereby proves my capability to add images.
 ![Butters](https://pixel.nymag.com/imgs/daily/vulture/2018/10/17/recaps/17-south-park-2204.w700.h467.jpg)
 > I am Butters!
